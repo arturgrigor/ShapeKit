@@ -4,6 +4,8 @@ If you are planning to build a new project using Swift, please consider [GEOSwif
 
 # ShapeKit
 
+[![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
 ShapeKit is a iOS/OSX library that offers an Objective-C interface to the powerful [GEOS](http://trac.osgeo.org/geos/) library.
 Through GEOS, ShapeKit includes all the OpenGIS Simple Features for SQL spatial predicate functions and spatial operators, as well as specific JTS enhanced topology functions.
 This fork is based on the [original repository](https://github.com/mweisman/ShapeKit) by Michael Weisman, with major customizations.
