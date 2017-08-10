@@ -54,11 +54,11 @@
 		CDE3B3081983C00E00DCC7BA /* ShapeKitViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CDE3B2FA1983C00E00DCC7BA /* ShapeKitViewController.xib */; };
 		CDE3B30F1984249800DCC7BA /* main.mm in Sources */ = {isa = PBXBuildFile; fileRef = CDE3B30E1984249800DCC7BA /* main.mm */; };
 		FE0E9D8D1F3C8AF1009CBFB9 /* ShapeKit.h in Headers */ = {isa = PBXBuildFile; fileRef = CD90C1651668A36F006E5D8F /* ShapeKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FE0EAA3C1F3C8CFA009CBFB9 /* ShapeKitFactory.h in Headers */ = {isa = PBXBuildFile; fileRef = CD90C1661668A36F006E5D8F /* ShapeKitFactory.h */; };
-		FE0EAA3D1F3C8CFD009CBFB9 /* ShapeKitGeometry.h in Headers */ = {isa = PBXBuildFile; fileRef = CD90C1681668A36F006E5D8F /* ShapeKitGeometry.h */; };
-		FE0EAA3E1F3C8D00009CBFB9 /* ShapeKitGeometry+Predicates.h in Headers */ = {isa = PBXBuildFile; fileRef = CD90C16A1668A36F006E5D8F /* ShapeKitGeometry+Predicates.h */; };
-		FE0EAA3F1F3C8D03009CBFB9 /* ShapeKitGeometry+Topology.h in Headers */ = {isa = PBXBuildFile; fileRef = CD90C16C1668A36F006E5D8F /* ShapeKitGeometry+Topology.h */; };
-		FE0EAA401F3C8D05009CBFB9 /* ShapeKitPolyline+Linearref.h in Headers */ = {isa = PBXBuildFile; fileRef = CD90C16E1668A36F006E5D8F /* ShapeKitPolyline+Linearref.h */; };
+		FE0EAA3C1F3C8CFA009CBFB9 /* ShapeKitFactory.h in Headers */ = {isa = PBXBuildFile; fileRef = CD90C1661668A36F006E5D8F /* ShapeKitFactory.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FE0EAA3D1F3C8CFD009CBFB9 /* ShapeKitGeometry.h in Headers */ = {isa = PBXBuildFile; fileRef = CD90C1681668A36F006E5D8F /* ShapeKitGeometry.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FE0EAA3E1F3C8D00009CBFB9 /* ShapeKitGeometry+Predicates.h in Headers */ = {isa = PBXBuildFile; fileRef = CD90C16A1668A36F006E5D8F /* ShapeKitGeometry+Predicates.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FE0EAA3F1F3C8D03009CBFB9 /* ShapeKitGeometry+Topology.h in Headers */ = {isa = PBXBuildFile; fileRef = CD90C16C1668A36F006E5D8F /* ShapeKitGeometry+Topology.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FE0EAA401F3C8D05009CBFB9 /* ShapeKitPolyline+Linearref.h in Headers */ = {isa = PBXBuildFile; fileRef = CD90C16E1668A36F006E5D8F /* ShapeKitPolyline+Linearref.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FE0EAA411F3C8D07009CBFB9 /* ShapeKitPrivateInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = CD90C1831668AFFE006E5D8F /* ShapeKitPrivateInterface.h */; };
 		FE0EAA421F3C8D73009CBFB9 /* ShapeKitFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = CD90C1671668A36F006E5D8F /* ShapeKitFactory.m */; };
 		FE0EAA431F3C8D77009CBFB9 /* ShapeKitGeometry.mm in Sources */ = {isa = PBXBuildFile; fileRef = CD90C1691668A36F006E5D8F /* ShapeKitGeometry.mm */; };
