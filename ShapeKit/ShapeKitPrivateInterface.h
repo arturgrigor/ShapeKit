@@ -9,7 +9,7 @@
 #ifndef ShapeKit_ShapeKitPrivateInterface_h
 #define ShapeKit_ShapeKitPrivateInterface_h
 
-#import <geos_c.h>
+#import <geos/geos_c.h>
 
 @interface ShapeKitGeometry (PrivateInterface)
 

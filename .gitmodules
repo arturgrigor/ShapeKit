@@ -1,0 +1,6 @@
+[submodule "Carthage/Checkouts/GEOS-iOS"]
+	path = Carthage/Checkouts/GEOS-iOS
+	url = https://github.com/arturgrigor/GEOS-iOS.git
+[submodule "Carthage/Checkouts/Proj4-iOS"]
+	path = Carthage/Checkouts/Proj4-iOS
+	url = https://github.com/Ryandev/Proj4-iOS.git

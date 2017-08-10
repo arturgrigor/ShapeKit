@@ -6,9 +6,6 @@ pod 'geos'
 pod 'proj4'
 end
 
-target "ShapeKitDemo" do
-end
-
 target "ShapeKitDemoTests" do
 
 end

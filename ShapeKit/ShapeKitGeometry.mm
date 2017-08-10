@@ -11,8 +11,8 @@
 //
 
 #import "ShapeKitGeometry.h"
-#import <geos_c.h>
-#import <proj_api.h>
+#import <geos/geos_c.h>
+#import <proj4/proj_api.h>
 
 #import "ShapeKitPrivateInterface.h"
 #import "ShapeKitFactory.h"
